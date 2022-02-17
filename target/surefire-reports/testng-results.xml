@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33732" started-at="2022-02-15T19:13:33 IST" finished-at="2022-02-15T19:14:07 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33732" started-at="2022-02-15T19:13:33 IST" finished-at="2022-02-15T19:14:07 IST">
+      <class name="uiautomation.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:uiautomation.TestClass@1e965684]" name="setUp" is-config="true" duration-ms="13147" started-at="2022-02-15T19:13:34 IST" finished-at="2022-02-15T19:13:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="505" started-at="2022-02-15T19:13:47 IST" finished-at="2022-02-15T19:13:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCheckBoxes()[pri:0, instance:uiautomation.TestClass@1e965684]" name="testCheckBoxes" duration-ms="1175" started-at="2022-02-15T19:13:47 IST" finished-at="2022-02-15T19:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckBoxes -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="552" started-at="2022-02-15T19:13:48 IST" finished-at="2022-02-15T19:13:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testDropdown()[pri:0, instance:uiautomation.TestClass@1e965684]" name="testDropdown" duration-ms="1068" started-at="2022-02-15T19:13:49 IST" finished-at="2022-02-15T19:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="549" started-at="2022-02-15T19:13:50 IST" finished-at="2022-02-15T19:13:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testFormAuthentication(java.lang.String,java.lang.String)[pri:0, instance:uiautomation.TestClass@1e965684]" name="testFormAuthentication" duration-ms="4562" started-at="2022-02-15T19:13:51 IST" finished-at="2022-02-15T19:13:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormAuthentication -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="582" started-at="2022-02-15T19:13:55 IST" finished-at="2022-02-15T19:13:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testFormAuthentication2(uiautomation.objects.User)[pri:0, instance:uiautomation.TestClass@1e965684]" name="testFormAuthentication2" duration-ms="1950" started-at="2022-02-15T19:13:56 IST" data-provider="form_authentication" finished-at="2022-02-15T19:13:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uiautomation.objects.User@4f7c0be3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormAuthentication2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="463" started-at="2022-02-15T19:13:58 IST" finished-at="2022-02-15T19:13:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testFormAuthentication2(uiautomation.objects.User)[pri:0, instance:uiautomation.TestClass@1e965684]" name="testFormAuthentication2" duration-ms="2215" started-at="2022-02-15T19:13:58 IST" data-provider="form_authentication" finished-at="2022-02-15T19:14:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uiautomation.objects.User@1d2644e3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormAuthentication2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="564" started-at="2022-02-15T19:14:00 IST" finished-at="2022-02-15T19:14:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testFormAuthentication2(uiautomation.objects.User)[pri:0, instance:uiautomation.TestClass@1e965684]" name="testFormAuthentication2" duration-ms="2265" started-at="2022-02-15T19:14:01 IST" data-provider="form_authentication" finished-at="2022-02-15T19:14:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uiautomation.objects.User@ca66933]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormAuthentication2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="599" started-at="2022-02-15T19:14:03 IST" finished-at="2022-02-15T19:14:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testInputs()[pri:0, instance:uiautomation.TestClass@1e965684]" name="testInputs" duration-ms="976" started-at="2022-02-15T19:14:04 IST" finished-at="2022-02-15T19:14:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputs -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:uiautomation.TestClass@1e965684]" name="beforeMethod" is-config="true" duration-ms="654" started-at="2022-02-15T19:14:05 IST" finished-at="2022-02-15T19:14:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTables()[pri:0, instance:uiautomation.TestClass@1e965684]" name="testTables" duration-ms="1699" started-at="2022-02-15T19:14:05 IST" finished-at="2022-02-15T19:14:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTables -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uiautomation.TestClass@1e965684]" name="tearDown" is-config="true" duration-ms="105" started-at="2022-02-15T19:14:07 IST" finished-at="2022-02-15T19:14:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uiautomation.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
